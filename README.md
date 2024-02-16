@@ -34,5 +34,3 @@ Este código en Python utiliza gestos de mano capturados a través de una cámar
 - [OpenCV](https://opencv.org/)
 - [MediaPipe](https://mediapipe.dev/)
 - [PyCaw](https://github.com/AndreMiras/pycaw)
-
-¡Siéntete libre de modificar y mejorar el script según tus necesidades!
