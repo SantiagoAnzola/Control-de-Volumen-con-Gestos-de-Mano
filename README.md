@@ -1,5 +1,13 @@
 # 🔉 Control de Volumen con Gestos de Mano 🤏
 
+
+<br>
+<p align="center">
+  | <a href=READMEEN.md>English</a> | 
+    <span>Español</span> |
+</p>
+<br>
+
 ## 📃 Descripción:
 Este código en Python utiliza gestos de mano capturados a través de una cámara web para controlar el volumen del sistema. Utiliza bibliotecas como OpenCV para capturar imágenes, MediaPipe para la detección de manos y PyCaw para el control de volumen.
 
