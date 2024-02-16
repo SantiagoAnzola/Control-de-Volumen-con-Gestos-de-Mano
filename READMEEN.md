@@ -1,5 +1,8 @@
 ﻿# 🔉 Hands Gesture Volume Control 🤏
 
+<p align="center">
+  <img src="https://github.com/SantiagoAnzola/Control-de-Volumen-con-Gestos-de-Mano/assets/87992831/d77e2377-589d-4904-b7ae-ecc5d8959f47" alt="Player" />
+</p>
 
 <br>
 <p align="center">
@@ -21,6 +24,10 @@ This Python script uses hand gestures captured through a webcam to control the s
 - It calculates the distance between specific points on the thumb and index finger to estimate the hand gesture's length.
 - Based on the length of the hand gesture, it adjusts the system volume.
 - A graphical interface is displayed on the screen showing the current volume level as a percentage and a visual representation of the volume bar.
+>[!IMPORTANT]
+>
+>❌ To close the application, you must use the ***ESC*** key or the ***Spacebar***..
+
 
 ## 📋 Requirements
 
