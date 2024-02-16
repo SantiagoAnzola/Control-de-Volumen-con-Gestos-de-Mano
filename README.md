@@ -1,5 +1,8 @@
 # 🔉 Control de Volumen con Gestos de Mano 🤏
 
+<p align="center">
+  <img src="https://github.com/SantiagoAnzola/Control-de-Volumen-con-Gestos-de-Mano/assets/87992831/d77e2377-589d-4904-b7ae-ecc5d8959f47" alt="Player" />
+</p>
 
 <br>
 <p align="center">
@@ -21,6 +24,10 @@ Este código en Python utiliza gestos de mano capturados a través de una cámar
 - Calcula la distancia entre puntos específicos en el pulgar y el dedo índice para estimar la longitud del gesto de la mano.
 - Según la longitud del gesto de la mano, ajusta el volumen del sistema.
 - Se muestra una interfaz gráfica en la pantalla que muestra el nivel de volumen actual como un porcentaje y una representación visual de la barra de volumen.
+>[!IMPORTANT]
+>
+>❌ Para cerrar la aplicación se debe usar la tecla ***ESC***  o la ***barra espaciadora (Spacebar)***.
+
 
 ## 📋 Requisitos
 
