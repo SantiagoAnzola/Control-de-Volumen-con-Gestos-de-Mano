@@ -17,7 +17,7 @@ This Python script uses hand gestures captured through a webcam to control the s
 
 ## Requirements
 
-- Python 3.x
+- Python 3.9
 - OpenCV
 - MediaPipe
 - PyCaw
