@@ -8,7 +8,10 @@
 </p>
 <br>
 
-## 📃 Descripción:
+## :hammer_and_wrench: Lenguajes y herramientas:
+<p align="center" > <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+## 📃 Descripción
 Este código en Python utiliza gestos de mano capturados a través de una cámara web para controlar el volumen del sistema. Utiliza bibliotecas como OpenCV para capturar imágenes, MediaPipe para la detección de manos y PyCaw para el control de volumen.
 
 ## 💻 ¿Cómo Funciona? 
@@ -21,7 +24,7 @@ Este código en Python utiliza gestos de mano capturados a través de una cámar
 
 ## 📋 Requisitos
 
-- Python 3.x
+- Python 3.9
 - OpenCV
 - MediaPipe
 - PyCaw
