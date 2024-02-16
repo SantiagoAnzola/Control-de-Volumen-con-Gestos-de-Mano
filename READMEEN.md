@@ -1,7 +1,12 @@
 ﻿# Hands Gesture Volume Control
 
 This Python script uses hand gestures captured through a webcam to control the system volume. It utilizes libraries like OpenCV for capturing images, MediaPipe for hand detection, and PyCaw for volume control.
-
+<br>
+<p align="center">
+  | <span>English</span> | 
+    <a href=README.md>Español</a> |
+</p>
+<br>
 ## How It Works
 
 - The script captures images through the webcam using OpenCV.
