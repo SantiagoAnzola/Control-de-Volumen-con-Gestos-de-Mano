@@ -33,9 +33,21 @@ Este código en Python utiliza gestos de mano capturados a través de una cámar
 
 - Python 3.9
 - OpenCV
+  ```
+  pip install opencv-python
+  ```
 - MediaPipe
+  ```
+  pip install mediapipe
+  ```
 - PyCaw
+  ```
+  pip install pycaw
+  ```
 - NumPy
+  ```
+  pip install numpy
+  ```
 
 ## 📜 ¿Cómo Usar?
 
