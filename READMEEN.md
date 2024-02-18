@@ -32,10 +32,21 @@ This Python script uses hand gestures captured through a webcam to control the s
 ## 📋 Requirements
 
 - Python 3.9
-- OpenCV
+  ```
+  pip install opencv-python
+  ```
 - MediaPipe
+  ```
+  pip install mediapipe
+  ```
 - PyCaw
+  ```
+  pip install pycaw
+  ```
 - NumPy
+  ```
+  pip install numpy
+  ```
 
 ## 📜 How to Use?
 
